@@ -1,0 +1,21 @@
+# Evenpace: Refills & Visits
+
+> Evenpace (App Store ID 6816420382, bundle ID com.evenpace.app) is a private iPhone organizer for the paperwork side of an ongoing prescription: the doses you take, the supply you have left, what you pay at the pharmacy, and the summary PDF you bring to your next doctor visit. No account, no servers, and no ads.
+
+## Core Capabilities (Version 2.0)
+- **Log a Dose**: Log each dose for one or more medications (injections, pens, vials, tablets, capsules). Displays the strength from your prescription, provides a body map marking the last injection site used, and records side effects and notes for your prescriber.
+- **Refills & Supply**: Counts how many pens, vials, or tablets remain on hand and calculates your next refill date from your latest fill, logged doses, and schedule, with local reminders before a refill is due.
+- **Costs & Savings**: Records pharmacy out-of-pocket costs and savings-card coverage (saving cards by last 4 digits only) with monthly and yearly totals.
+- **Visit & Coverage Packet (PDF)**: Generates a printable PDF summary with medications, dose history, sites used, side effects, questions to ask, and insurer/plan prior-authorization renewal dates.
+- **Private by Design**: Stored on-device on iPhone with optional private CloudKit sync (`iCloud.com.evenpace.app`), on-device Vision label scanning (images are never saved or uploaded), optional read-only Apple Health weight for the visit packet, and privacy-safe widgets that never display medication names.
+
+## Pricing & Plans
+- **Free**: Dose logging, injection site map, dose and visit reminders, next visit date, and visit questions.
+- **Evenpace Pro**: Adds refills and supply math, pharmacy costs and savings cards, Visit & Coverage Packet PDF, Apple Health weight read, widgets, and CSV export. Available as Monthly or Yearly (with 7-day free trial).
+
+## Official Links
+- App Store: https://apps.apple.com/app/id6816420382
+- Support & FAQ: https://shuhratjon1010.github.io/evenpace-support/
+- Privacy Policy: https://shuhratjon1010.github.io/evenpace-support/privacy.html
+- Terms of Use: https://shuhratjon1010.github.io/evenpace-support/terms.html
+- Apple Standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
